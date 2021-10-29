@@ -6,7 +6,7 @@ You can get the mod directly from my discord server in the dedicated channel.
 https://discord.gg/u4hyCtybbr
 
 ## Permission
-No permissions are required to use the plugin, however you will need the **nbdecoration.admin** permission to give the one decoration and have access to public mode.
+No permissions are required to use the mod, however you will need the **nbdecoration.admin** permission to give the one decoration and have access to public mode.
 
 *The public mode allows to place on the map a decoration that will be collectable by any player (which will become the owner of the decoration).*
 
@@ -39,6 +39,9 @@ It is a toggle that you can enable / disable. Once activated decorations you wil
     - ShrineArticuno
     - ShrineMoltres
     - ShrineIlex
+  - Zygarde
+    - ZygardeCell
+    - ZygardeCore
   - Rock
     - RockIce
     - RockMoss
