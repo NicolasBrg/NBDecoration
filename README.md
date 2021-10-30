@@ -1,5 +1,5 @@
 # NBDecoration
-A free mod for Minecraft Pure Forge 1.12.2 servers that allows players to use dynamic Pixelmon objects as personal decorations (PokeChest, Shrines, Chalice, Chalise)
+A free mod for Minecraft Pure Forge 1.12.2 servers that allows players to use dynamic Pixelmon objects as personal decorations (PokeChest, Shrines, Chalice, ZygardeElements, Rock)
 
 ## Grab it
 You can get the mod directly from my discord server in the dedicated channel.
