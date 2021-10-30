@@ -1,7 +1,7 @@
 {
   "1.10.21.1": {
-    "Description": "1.10.21.2\nInitial version",
-    "NeedToBeUpdated": true,
-    "EndOfService": true
+    "Description": "Initial version",
+    "NeedToBeUpdated": false,
+    "EndOfService": false
   }
 }
