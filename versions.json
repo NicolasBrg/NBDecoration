@@ -1,4 +1,9 @@
 {
+  "1.11.21.3": {
+    "Description": "Features 1 - New decorations & fix",
+    "NeedToBeUpdated": false,
+    "EndOfService": false
+  },
   "1.11.21.1": {
     "Description": "Fix 1 - You can now disable update check in Config.json",
     "NeedToBeUpdated": false,
